@@ -21,7 +21,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/>
   <img src="https://avatars.githubusercontent.com/u/3048721?s=200&v=4" alt="celery" width="50" height="50"/>
   <img src="https://dbeaver.io/wp-content/uploads/2018/05/dbeaver-head.png" alt="dbeaver" width="50" height="50"/>
-</p>
+</p>  
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-0078D4?style=for-the-badge&logo=dbeaver&logoColor=white)
 
 ----------------------------
 
