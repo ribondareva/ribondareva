@@ -28,7 +28,7 @@
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postman-colored.svg" width="36" height="36" alt="Postman" />
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="36" height="36" alt="Postman" />
 </a>
 
 </div>
