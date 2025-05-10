@@ -13,7 +13,7 @@
 
 ### Стек:
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -36,11 +36,7 @@
   
   <a href="https://alembic.sqlalchemy.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://www.svgrepo.com/show/65935/alembic.svg" width="36" height="36" alt="Alembic" style="background: none; border: none;" />
-  </a>
-  
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://worldvectorlogo.com/logos/postgresql.svg" width="36" height="36" alt="PostgreSQL" style="background: none; border: none;" />
-  </a>
+  </a>   
 </div>
 
 <div align="center">
