@@ -30,15 +30,17 @@
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="36" height="36" alt="Postman" />
 </a>
-<a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer">
-  <img src="https://worldvectorlogo.com/logos/sqlalchemy.svg" width="36" height="36" alt="SQLAlchemy" />
-</a>
-<a href="https://alembic.sqlalchemy.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/65935/alembic.svg" width="36" height="36" alt="Alembic" />
-</a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://worldvectorlogo.com/logos/postgresql.svg" width="36" height="36" alt="PostgreSQL" />
-</a>
+<a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://worldvectorlogo.com/logos/sqlalchemy.svg" width="36" height="36" alt="SQLAlchemy" style="background: none; border: none;" />
+  </a>
+  
+  <a href="https://alembic.sqlalchemy.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://www.svgrepo.com/show/65935/alembic.svg" width="36" height="36" alt="Alembic" style="background: none; border: none;" />
+  </a>
+  
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://worldvectorlogo.com/logos/postgresql.svg" width="36" height="36" alt="PostgreSQL" style="background: none; border: none;" />
+  </a>
 </div>
 
 <div align="center">
