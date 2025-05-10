@@ -29,9 +29,7 @@
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="36" height="36" alt="Postman" />
   <img src="https://worldvectorlogo.com/logos/sqlalchemy.svg" width="36" height="36" alt="SQLAlchemy" />
   <img src="https://www.svgrepo.com/show/65935/alembic.svg" width="36" height="36" alt="Alembic" />
-
 </div>
->
 
 <div align="center">
 
